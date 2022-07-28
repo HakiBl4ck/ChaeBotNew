@@ -1,1 +1,1 @@
-worker python chaebot.py
+worker: python chaebot.py
